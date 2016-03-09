@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ChristinaNicoleBarnes]]></title>
         <description><![CDATA[ChristinaNicoleBarnes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christinanicolebarnes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:57:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 03:06:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christinanicolebarnes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a14182f-4e38-4eda-8ea5-83075c0716ed.jpg">]]></description>
+            <link>https://thegrid.ai/christinanicolebarnes/what-is-christian-yoga/index.html</link>
+            <guid isPermaLink="false">6d5ad0a1-d521-4a05-96b1-3caae8145c6e</guid>
+            <pubDate>Wed, 09 Mar 2016 03:05:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Christina Nicole Barnes]]></title>
             <description><![CDATA[<article><h1>Christina Nicole Barnes</h1><p>Yoga. Faith. Wellness.</p></article>]]></description>
-            <link>undefinedchristina-nicole-barnes/index.html</link>
+            <link>https://thegrid.ai/christinanicolebarnes/christina-nicole-barnes/index.html</link>
             <guid isPermaLink="false">86364674-1089-45a9-86a9-bc79aabffba2</guid>
             <pubDate>Wed, 09 Mar 2016 02:57:07 GMT</pubDate>
         </item>
