@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ChristinaNicoleBarnes]]></title>
+        <description><![CDATA[ChristinaNicoleBarnes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 02:57:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christina Nicole Barnes]]></title>
+            <description><![CDATA[<article><h1>Christina Nicole Barnes</h1><p>Yoga. Faith. Wellness.</p></article>]]></description>
+            <link>undefinedchristina-nicole-barnes/index.html</link>
+            <guid isPermaLink="false">86364674-1089-45a9-86a9-bc79aabffba2</guid>
+            <pubDate>Wed, 09 Mar 2016 02:57:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
